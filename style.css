@@ -46,6 +46,7 @@ h2 {
 a {
     text-decoration: none;
     color: white;
+    font-size: 20px;
     
 }
 
@@ -75,10 +76,10 @@ a {
 .top-text {
     display: flex;
     flex-direction: column;
-    font-size: 17px;
+    font-size: 22px;
+    font-weight: 550;
     margin-top: 15px;
     width: 600px;
-    height: ;
     color: white;
     
 }
@@ -144,6 +145,7 @@ a {
 
 .card-text {
     max-width: 300px;
+    font-size: 22px;
 }
 
 
@@ -279,7 +281,7 @@ footer {
 
 .footer-text {
     color: white;
-    
+
 }
 
 
